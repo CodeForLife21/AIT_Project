@@ -1,3 +1,1 @@
-import date 
-
-# example change 
+# Example .py script  
